@@ -55,74 +55,10 @@ body {
   border-radius: 3px;
 }
 
-
-/* body {
-  font-family: : sans-serif;
-}
-
-
-
-.header {
-  text-align: center;
-  padding-top: 75px;
-}
-
-.header h1 {
-  color: #333;
-  font-size: 45px;
-  margin-bottom: 80px;
-}
-
-.formContainer {
-  text-align: center;
-  margin: 20;
-} */
-
-/* .formContainer input, button {
-  width: 300px;
-  height: 40px;
-  border: none;
-  outline: none;
-  padding-left: 40px;
-  border-radius: 5px;
-  box-sizing: border-box;
-  font-size: 15px;
-}
-
-.span {
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-  margin: 15px;
-}
-
-.formContainer span {
-  position: relative;
-} */
-
-/* h2 {
-  text-transform: uppercase;
-  font-family: sans-serif;
-}
- */
-
-/* label {
-  font-size: 16px;
-  font-weight: bold;
-  margin-top: 10px;
-  padding: 5px;
-}
-
-.formContainer button {
-  padding-left: 0;
-}
- */
  button {
   padding: 10px 15px;
   margin: 30px;
-/*   margin-right: 25px; */
   border-radius: 3px;
   cursor: pointer;
-/*   background-color: #333; */
   align-items: center;
 }
