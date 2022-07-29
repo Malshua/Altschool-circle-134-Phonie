@@ -43,8 +43,8 @@ body {
 }
 
 .container form button{
-/*   margin-right: 50%; */
-  width: 410px;
+  margin-top: 10px;
+  width: 460px;
   height: 40px;
   border: none;
   outline: none;
@@ -55,10 +55,10 @@ body {
   border-radius: 3px;
 }
 
- button {
+/*  button {
   padding: 10px 15px;
   margin: 30px;
   border-radius: 3px;
   cursor: pointer;
   align-items: center;
-}
+} */
